@@ -1,9 +1,13 @@
 # KTU Asmens Sveikatos Ugdymas
 
 Is a neat android application for KTU Students to download and review their official campus schedule, track their eating habbits etc.. 
+
 ![APP Main Activity](/media/app.png)
+
 Unfortunately for us, this app is quite old (last update was on ___October 21, 2015___) and seems to be already broken and abandoned.
+
 ![App broken evidence](/media/reviews.png)
+
 The app was created by [Rokas Milasevicius](https://github.com/milasevicius) and uploaded to [Google Play Store](https://play.google.com/store/apps/details?id=app.asu).
 
 ## So what's up with this repo?
@@ -23,5 +27,5 @@ Another issue was the questionaire that gets booted up the first time a user ope
 I just simply removed the questionaire and CheckForUpdates function calls from the **StartActivity.java**. That is all - works like a charm.
 
 # APP Permissions
-![APP Permissions](/nedia/required_app_permissions.png)
+![APP Permissions](/media/required_app_permissions.png)
 
